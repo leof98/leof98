@@ -1,4 +1,4 @@
-Olá! 👋 sou o Leonardo Franco, tenho 24 anos, sou Estudante de TI e estou aprimorando meus conhecimentos em JS, HTML e CSS.
+Olá! 👋 sou o Leonardo Franco, tenho 24 anos, sou Estudante de TI e estou aprendendo JS, HTML e CSS.
  ##
  
 - 📊 Cursando Análise e Desenvolvimento de Sistemas
