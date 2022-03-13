@@ -23,5 +23,5 @@ Olá! sou o Leonardo Franco, tenho 24 anos, sou Estudante de TI e estou aprimora
 <div> 
    <a href="https://www.linkedin.com/in/leonardo-franco-a87926233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lf290198@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <img align="bottom" alt="ghibliPixel" height="80" width="90" src="https://i.pinimg.com/originals/7f/cf/37/7fcf37c760d468cdbd546c0c1d6680c8.gif">
 </div>
