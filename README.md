@@ -1,4 +1,4 @@
-Olá! 👋 sou o Leonardo Franco, sou Estudante de TI e estou aprendendo JS, HTML e CSS.
+Olá! 👋 sou o Leonardo Franco, estou cursando Análise e Desenvolvimento de Sistemas e estudando JS, HTML e CSS.
  ##
  
 - 📊 Cursando Análise e Desenvolvimento de Sistemas
