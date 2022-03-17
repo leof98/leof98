@@ -1,8 +1,8 @@
-Olá! 👋 sou o Leonardo Franco, estou cursando Análise e Desenvolvimento de Sistemas e estudando JS, HTML e CSS.
+Olá! 👋 sou o Leonardo Franco, estou cursando Análise e Desenvolvimento de Sistemas e estudando Python and C.
  ##
  
 - 📊 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando JavaScript
+- 📚 Estudando Python
 
 <div align="center">
   <a href="https://github.com/leofranco1">
