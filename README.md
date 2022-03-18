@@ -5,10 +5,15 @@ Olá! 👋
 
 <div align="center">
   <a href="https://github.com/leof98">
-  <img height="170em" width="500em" src="https://github-readme-stats.vercel.app/api?username=leofranco1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofranco1&layout=compact&langs_count=7&theme=tokyonight"/>
+   
+   <!---- Estatíscas das linguages e GitHub ---->
+   
+  <img alt="github" height="170em" width="500em" src="https://github-readme-stats.vercel.app/api?username=leof98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leof98&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
