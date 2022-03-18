@@ -1,5 +1,4 @@
-Olá! 👋 sou o Leonardo Franco, estou cursando Análise e Desenvolvimento de Sistemas e estudando C e Python.
- ##
+Olá! 👋
  
 - 📊 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Python
