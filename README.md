@@ -8,8 +8,8 @@ Olá! 👋
    
    <!---- Languages and GitHub Stats ---->
    
-  <img alt="github" height="170em" width="500em" src="https://github-readme-stats.vercel.app/api?username=leof98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leof98&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img alt="github" height="160em" width="450em" src="https://github-readme-stats.vercel.app/api?username=leof98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leof98&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  
