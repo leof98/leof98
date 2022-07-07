@@ -1,6 +1,4 @@
-Olá! 👋
- 
-- 📊 Cursando Análise e Desenvolvimento de Sistemas
+ - 📊 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Python
 
 <div align="center">
