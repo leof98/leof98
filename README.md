@@ -5,11 +5,11 @@
   <a href="https://github.com/leof98">
    
    <!---- Languages and GitHub Stats ---->
-   
-  <img alt="github" height="170em" src="https://github-readme-stats.vercel.app/api?username=leof98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img alt="languages" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leof98&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img alt="languages" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leof98&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img alt="github" width="400em" src="https://github-readme-stats.vercel.app/api?username=leof98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-  
  
  <!---- Languages and links ----->
 <div style="display: inline_block"><br>
