@@ -1,6 +1,3 @@
- - 📊 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Python
-
 <div align="center">
   <a href="https://github.com/leof98">
    
