@@ -18,7 +18,7 @@
  </br>
  </div>
  <!-- ghibli -->
- <div align="center">
+ <div align="left">
 <img " alt="ghibliPixel" height="80" width="80"  src="https://i.pinimg.com/originals/7f/cf/37/7fcf37c760d468cdbd546c0c1d6680c8.gif">
 </div>
                                                                                                                                    
