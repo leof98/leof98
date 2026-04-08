@@ -1,10 +1,7 @@
 <!---- Languages and GitHub Stats ---->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leof98"/>
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=leof98)](https://github.com/pranesh-2005/github-readme-stats-fast)
-<!--- </br>
 <img alt="github" width="400em" src="https://github-readme-stats.vercel.app/api?username=leof98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
- --->
  <p>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
 <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
